@@ -1,6 +1,6 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It came with a default contract, that i replaced with "SimpleStorage" contract, which stores a number on the block chain, and retrieves that number. In my project folder, I have four main folders used for testing, creating scripts, and creating new hardhat tasks. 
+This project demonstrates a basic Hardhat use case. It came with a default solidity contract that i replaced with "SimpleStorage" contract, which stores a number on the block chain, and retrieves that number. In my project folder, I have four main folders used for testing, creating scripts, and creating new hardhat tasks. 
 
 # .env file
 
