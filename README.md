@@ -11,4 +11,5 @@ In my previous projects, I did not use hardhat, and had to use my own EVM in gan
 -- WIP
 
 # hardhat.config.js
-#sol contract
+
+# sol contract
